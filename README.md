@@ -5,8 +5,8 @@ This repository contains a compendium of games created by members of the Compute
 ## Dependencies
 Requires the Python library Pygame which can be installed using the following command
 
-```markdown
-pip install pygame
+ ```markdown
+ pip install pygame
 
 
 ## Using the Application
