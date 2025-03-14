@@ -1,0 +1,7 @@
+[project]
+name = "muncs-snakepit"
+version = "0.1.0"
+description = "a pygame game, of many games!"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = ["pygame>=2.6.1"]
