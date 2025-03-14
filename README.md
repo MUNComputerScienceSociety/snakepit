@@ -7,7 +7,7 @@ Requires the Python library Pygame which can be installed using the following co
 
 ``pip install pygame``
 
-If you need extra help in downloading Pygame or its prequisites, check out `this link <https://github.com/murphyrobbit18/pygame> for further assistance
+If you need extra help in downloading Pygame or its prequisites, check out `this link <https://github.com/murphyrobbit18/pygame>` for further assistance
 
 ## Using the Application
 Download the application by pressing the `<> Code` button then download the zip file. After extracting the files run main.py in your preferred coding terminal 
