@@ -1,3 +1,8 @@
-# snakepit - a pygame gmame, of many games!
+# Snakepit - a pygame gmame, of many games!
 
-TODO readme
+This repository contains a compendium of games created by members of the Computer Science major at Memorial University housed within a singular application.
+
+## Dependencies
+
+## Using the Application
+Download the application by pressing the `<> Code` button then download the zip file. After extracting the files run main.py in your preferred coding terminal 
