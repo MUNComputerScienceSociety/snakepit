@@ -1,4 +1,4 @@
-# Snakepit - a pygame gmame, of many games!
+# Snakepit - a pygame game, of many games!
 
 This repository contains a compendium of games created by members of the Computer Science major at Memorial University housed within a singular application.
 
