@@ -9,6 +9,8 @@ Download the application by pressing the `<> Code` button on the repo menu then 
 ## Dependencies
 Requires the Python library Pygame which can be installed using the following command
 
-``pip install pygame``
+```
+pip install pygame
+```
 
 If you need extra help in downloading Pygame or its prequisites, check out [this link](https://github.com/murphyrobbit18/pygame) for further assistance
